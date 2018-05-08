@@ -1,0 +1,16 @@
+﻿Build started 4/20/2015 2:33:20 PM.
+     1>Project "P:\Documents\CWS - CompSci 2\Link_List\Link_List\Link_List.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt list.cpp
+         list.cpp
+     1>p:\documents\cws - compsci 2\link_list\link_list\list.cpp(150): warning C4700: uninitialized local variable 'retval' used
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"P:\Documents\CWS - CompSci 2\Link_List\Debug\Link_List.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"P:\Documents\CWS - CompSci 2\Link_List\Debug\Link_List.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"P:\Documents\CWS - CompSci 2\Link_List\Debug\Link_List.lib" /MACHINE:X86 Debug\list.obj
+         Debug\Main.obj
+         Debug\Node.obj
+         Link_List.vcxproj -> P:\Documents\CWS - CompSci 2\Link_List\Debug\Link_List.exe
+     1>Done Building Project "P:\Documents\CWS - CompSci 2\Link_List\Link_List\Link_List.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.48
